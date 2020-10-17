@@ -3,74 +3,81 @@
 #EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T01 - 2017 - 720 - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  01" tvg-logo="/LymWaPclHhseVgG9rbmHDEBCtIKRbmqH.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  02" tvg-logo="/6iKgyulmY6SgqCRcs26ziGfdt8CxlWoK.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80282.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  03" tvg-logo="/YYPwfdaDJY7wl6mRGAXzaiBLWxSUA0Fc.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80281.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  04" tvg-logo="/Eh14YhlU4HnhJne3J3uYIAVJG8XWDZej.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  05" tvg-logo="/D4TVhc9PN2UJnPPfpuxmTxUfc11ZJ5VW.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80284.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  06" tvg-logo="/zXTbihSgimT0RU405DtmDjpLYAMrxDLH.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  07" tvg-logo="/wkuE1Yh5xteFDcsxrSeGplxm71KtaVOc.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  08" tvg-logo="/5SCZmMuTX7R5rwjF43T40IKXfUtlK0Or.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80287.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  09" tvg-logo="/4AlTiPha71WgkLiNfiQdHTUhjkFjYhiC.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T01  09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80288.mkv
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP01" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0101 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP01.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP02" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0102 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP02.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP03" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0103 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP03.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP04" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0104 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP04.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP05" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0105 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP05.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP06" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0106 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP06.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP07" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0107 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP07.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP08" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0108 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP08.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP09" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0109 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP09.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T02 - 2018 - 720 - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  01" tvg-logo="/60194c10e0f2d051e51e74f6b45f0609.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80299.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  02" tvg-logo="/60194c10e0f2d051e51e74f6b45f0609.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80298.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  03" tvg-logo="/msAYJE0gXhfYAodTtoO7mTK4Dk8xzJKk.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80297.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  04" tvg-logo="/W8ASPtWyPQ84LgPODmJZmRqcqrxMWlsR.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80296.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  05" tvg-logo="/HqOvVB7xiotvGmqHEbGpPpGVDIaDGjym.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80295.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  06" tvg-logo="/b7TZZYAjwyBP5OtKqa1KDYrIRVRa6JdW.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80294.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  07" tvg-logo="/Qd5ocgsLvTmMMG8W1C3TdKvoNjCrr5a0.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  08" tvg-logo="/9n86dxDPDQ0sfakLraFEFRth1OIFB8El.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  09" tvg-logo="/AIncBZLo5kKv6Ue538GO6IrUYLvAMuAF.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  10" tvg-logo="/dLKJYCVPztAkuDFF4zF2YYxOoP0rCfEx.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  10
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  11" tvg-logo="/RjWdKKjPIuRt9H5WhCejjbQML5qY5Ev7.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T02  11
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80290.mkv
+
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP01" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0201 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP01.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP02" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0202 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP02.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP03" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0203 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP03.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP04" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0204 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP04.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP05" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0205 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP05.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP06" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0206 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP06.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP07" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0207 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP07.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP08" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0208 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP08.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP09" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0209 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP09.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP10" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0210 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP10.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP11" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0211 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP11.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T03 - 2019 - 720 - DUB[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   01" tvg-logo="/TCtjuvXTarorrHaESm8lWBAwpVRNJfXb.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   02" tvg-logo="/Uee5uOR19xna9Vo1MhlROM6TNAHOEsNS.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   03" tvg-logo="/TlSRUVlBvRKN1WRHrvfbLo2geY3kAKbD.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80301.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   04" tvg-logo="/pVmAHJcKx2nWjpMQXI60OTFKtHAZVo7H.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   05" tvg-logo="/u0FPKsTE8kHTLbyKrY0rGlLN4EjVgxyZ.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80303.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   06" tvg-logo="/AzWveqEsN0R4kuW8jr89yoJpn6ZoVjAU.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   07" tvg-logo="/HeezNhOifae5AnBoCuSXZqK1y8JSFLrF.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80305.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   08" tvg-logo="/phHLXQZsM0kxeaOTfVb5xMjl6TDW751g.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80306.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   09" tvg-logo="/7mcbXZ0cZw3eWr3zwCZl7L0Vj6pSiOSz.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   10" tvg-logo="/qvbBFPBVyrJMKgbD3qSnoGiSyThh537V.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   10
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   11" tvg-logo="/9Z2XTUVUs9SSJ750oE4MBSlSxfNh0EKL.jpg" group-title="SÉRIE: SOB PRESSÃO",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T03   11
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80309.mkv
 
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP01" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0301 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP01.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP02" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0302 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP02.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP03" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0303 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP03.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP04" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0304 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP04.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP05" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0305 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP05.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP06" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0306 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP06.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP07" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0307 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP07.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP08" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0308 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP08.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP09" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0309 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP09.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP10" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0310 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP10.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP11" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0311 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP11.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP12" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0312 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP12.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP13" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0313 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP13.mp4
+#EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP14" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0314 
+https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT03EP14.mp4
