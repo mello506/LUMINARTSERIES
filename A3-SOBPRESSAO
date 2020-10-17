@@ -133,6 +133,23 @@ LINKGDRIVE$$lsname=[B]G DRIVE - T01E10[/B][COLOR yellow] ->[/COLOR][COLOR red] S
 <genre>DRAMA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSÂO - T04 - PLANTÃO COVID - T04 - 2020 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=7vs2UI62h5w$$lsname=[B]TRAILER[/B] [COLOR yellow]<->[/COLOR] [COLOR lime]SOB PRESSAO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E4kryuB0FjflXwLBMYHpDgm_L1mljOlQ/view$$lsname=[B]G DRIVE - T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE - T04E02[/B][COLOR yellow] ->[/COLOR][COLOR red] SOB PRESSAO[/COLOR]</link>
+
+
+<thumbnail>https://i.ibb.co/ThkCXXT/sobprssao-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/sgY9gCw/sobprssao-fan.jpg</fanart>
+<info>‘Sob Pressão – Plantão Covid’ aborda a pandemia do Coronavírus. Na série são contadas histórias de pacientes enfrentando o vírus e os dramas pessoais e profissionais da equipe médica. </info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
