@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T01 - 2017 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T01 - 2017 - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP01" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0101 
@@ -22,7 +22,7 @@ https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP08.mp4
 #EXTINF:-1 tvg-logo="04/SOBPRSAOT01EP09" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0109 
 https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT01EP09.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T02 - 2018 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T02 - 2018 - 720 - DUB[/COLOR]
 LINKDOFILME
 
 
@@ -49,7 +49,7 @@ https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP10.mp4
 #EXTINF:-1 tvg-logo="04/SOBPRSAOT02EP11" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0211 
 https://proxy.ec.cx/video.php?url=RCServer04/ondemand/SOBPRSAOT02EP11.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T03 - 2019 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO - T03 - 2019 - 720 - DUB[/COLOR]
 LINKDOFILME
 
 
