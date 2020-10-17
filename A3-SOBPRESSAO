@@ -134,7 +134,6 @@ LINKGDRIVE$$lsname=[B]G DRIVE - T01E10[/B][COLOR yellow] ->[/COLOR][COLOR red] S
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <item>
 <title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSÂO - T04 - PLANTÃO COVID - T04 - 2020 - DUB[/COLOR]</title>
 
@@ -294,7 +293,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO - A SÉRIE - COMPLETA[/B][/COLOR]</name>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO - A SÉRIE [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A3A-SOBPRESSAO</externallink>
 <thumbnail>https://i.ibb.co/g47S11V/sobpressao-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
