@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK -DISCOVERY - 1ª TEMP - LEG [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK -DISCOVERY - 1ª TEMP - LEG [/COLOR]
 LINKDOFILME
 
 
@@ -50,7 +50,7 @@ https://proxy.ec.cx/video.php?url=RCServer13/ondemand/STRTRKS01EP14.mp4
 https://proxy.ec.cx/video.php?url=RCServer13/ondemand/STRTRKS01EP15.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK -DISCOVERY - 2ª TEMP - LEG [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/2ccGn3q/startrekdiscovery-icon.jpg" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK -DISCOVERY - 2ª TEMP - LEG [/COLOR]
 LINKDOFILME
 
 
