@@ -23,7 +23,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK [/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] ROMA [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/B2-STARTREK</externallink>
+<thumbnail>https://i.ibb.co/19DpQrB/startrek-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO ROMA </info>
+<genre>ÉPICOS</genre>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/B2-STARTREK</externallink>
 <thumbnail>https://i.ibb.co/19DpQrB/startrek-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -36,7 +50,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SUPERNATURAL[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SUPERNATURAL[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1-SUPERNATURAL</externallink>
 <thumbnail>https://i.ibb.co/t8spnqg/supernatural-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -49,7 +63,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] TERRORES URBANOS[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] TERRORES URBANOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A2-TERRORESURBANOS</externallink>
 <thumbnail>https://i.ibb.co/wgcwhJ5/terroresurbanos-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -62,7 +76,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A3-SOBPRESSAO</externallink>
 <thumbnail>https://i.ibb.co/g47S11V/sobpressao-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -75,7 +89,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] F.B.I.[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] F.B.I.[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A4-FBI</externallink>
 <thumbnail>https://i.ibb.co/th0cFpn/fbi-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -88,7 +102,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLD CASE - ARQUIVO MORTO[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLD CASE - ARQUIVO MORTO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A5-COLDCASE</externallink>
 <thumbnail>https://i.ibb.co/hChF1Sf/codcase-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -101,7 +115,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] VIKINGS[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] VIKINGS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A6-VIKINGS</externallink>
 <thumbnail>https://i.ibb.co/JnRtNVW/vikings-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -114,7 +128,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O TUNEL DO TEMPO[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O TUNEL DO TEMPO[/B][/COLOR]</name>
 <externallink>https:/</externallink>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -127,7 +141,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <channels>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] [B]IMPUROS[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] [B]IMPUROS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A8-IMPUROS</externallink>
 <thumbnail>https://i.ibb.co/51XVjDd/impuros-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -140,7 +154,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <channels>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] KEVIN CAN WAIT[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] KEVIN CAN WAIT[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A9-KEVINCANWAIT </externallink>
 <thumbnail>https://i.ibb.co/nztgm9x/kevin-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -153,7 +167,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <channels>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 24 HORAS[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 24 HORAS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/B1-24HORAS</externallink>
 <thumbnail>https://i.ibb.co/HKjQYbJ/24hs-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
