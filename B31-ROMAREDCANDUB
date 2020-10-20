@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ROMA" tvg-logo="ICONE" group-title="SERIES",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] ROMA - 1ª TEMP -DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="ROMA" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] ROMA - 1ª TEMP -DUB [/COLOR]
 CABECALHO
 
 #EXTINF:-1 tvg-id="" tvg-name="TO1E01" tvg-logo="ICONE" group-title="SERIES",TO1E01[COLOR yellow] ->[COLOR lime] A Águia Roubada [/COLOR]
@@ -40,7 +40,7 @@ https://proxy.ec.cx/video.php?url=RCServer09/ondemand/ROMAT01EP11.mp4
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/ROMAT01EP12.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ROMA" tvg-logo="ICONE" group-title="SERIES",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] ROMA - 2ª TEMP -DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="ROMA" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] ROMA - 2ª TEMP -DUB [/COLOR]
 CABECALHO
 
 
