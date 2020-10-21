@@ -23,6 +23,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR lime][B]SÉRIES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1-SERIESDESUSPENSETERROR</externallink>
+<thumbnail>https://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE FICÇÃO E FANTASIA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR lime][B]SÉRIES DE SUSPENSE E TERROR[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1-SERIESDESUSPENSETERROR</externallink>
 <thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
@@ -51,7 +63,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/B2-STARTREK</externallink>
-<thumbnail>https://i.ibb.co/19DpQrB/startrek-pasta.png</thumbnail>
+<thumbnail>https://i.ibb.co/HG0T8fZ/startrek-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEÇÃO STAR TREK </info>
 <genre>FICÇÃO</genre>
