@@ -22,6 +22,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR lime][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/D1-SERIESDEACAO</externallink>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE AÇÃO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR lime][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
 <externallinkhttps://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/E1-SERIESDEEPICOS</externallink>
 <thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
