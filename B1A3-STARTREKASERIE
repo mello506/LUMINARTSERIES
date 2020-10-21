@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK - 1ª TEMP - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK - 1ª TEMP - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="11/STRTRKT01EP01" group-title="Star Trek (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK A SÉRIE[/COLOR]T01E01 
@@ -62,7 +62,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/STRTRKT01EP28.mp4
 #EXTINF:-1 tvg-logo="11/STRTRKT01EP29" group-title="Star Trek (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK A SÉRIE[/COLOR]T01E29 
 https://proxy.ec.cx/video.php?url=RCServer11/ondemand/STRTRKT01EP29.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK - 2ª TEMP - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK - 2ª TEMP - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="11/STRTRKT02EP01" group-title="Star Trek (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK A SÉRIE[/COLOR]T02E01 
@@ -118,7 +118,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/STRTRKT02EP25.mp4
 #EXTINF:-1 tvg-logo="11/STRTRKT02EP26" group-title="Star Trek (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK A SÉRIE[/COLOR]T02E26 
 https://proxy.ec.cx/video.php?url=RCServer11/ondemand/STRTRKT02EP26.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK - 3ª TEMP - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] STAR TREK - 3ª TEMP - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="11/STRTRKT03EP01" group-title="Star Trek (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK A SÉRIE[/COLOR]T03E01 
