@@ -1,23 +1,28 @@
-#EXTM3U
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS - 2017 - DUB[/COLOR]</title>
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] GODLESS - DUB [/COLOR]
-LINKDOFILME
+<link>plugin://plugin.video.youtube/play/?video_id=AKfvttEA8eo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]</link>
 
+<link>https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP01.mp4$$lsname=[B]EPISODIO 01[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS - 720 - DUB[/COLOR]</link>
 
-#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP01.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]  T0101 
-https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP01.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP02.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]  T0102 
-https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP02.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP03.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]  T0103 
-https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP03.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP04.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]  T0104 
-https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP04.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP05.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]  T0105 
-https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP05.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP06.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]  T0106 
-https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP06.mp4
-#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP07.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]  T0107 
-https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP07.mp4
+<link>https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP02.mp4$$lsname=[B]EPISODIO 02[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS - 720 - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP03.mp4$$lsname=[B]EPISODIO 03[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS - 720 - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP04.mp4$$lsname=[B]EPISODIO 04[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS - 720 - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP05.mp4$$lsname=[B]EPISODIO 05[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS - 720 - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP06.mp4$$lsname=[B]EPISODIO 06[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS - 720 - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP07.mp4$$lsname=[B]EPISODIO 07[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Godless se passa no ano de 1884 e acompanha Frank Griffin, um bandido ameaçador que está aterrorizando o Oeste enquanto persegue Roy Goode, seu antigo parceiro que se tornou inimigo mortal.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HATFIELDS E MC COYS - 2012 - DUB[/COLOR]</title>
