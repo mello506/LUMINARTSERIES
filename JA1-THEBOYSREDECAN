@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE BOYS 1ª TEMP - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/TL7YX72/theboys-icon.jpg" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE BOYS 1ª TEMP - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="01" group-title="The Boys (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE BOYS[/COLOR]  T01E01 
