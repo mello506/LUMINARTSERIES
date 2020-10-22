@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] A FAMÍLIA ADDAMS - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/S7TTnb4/familiaddams-icon.jpg" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] A FAMÍLIA ADDAMS - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 group-title="A Família Addams: A Série Animada (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A FAMÍLIA ADDAMS[/COLOR]   TO1E01 
