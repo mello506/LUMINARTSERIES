@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER- 1ª TEMP - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E01" tvg-logo="01f0d5bcb9160c6de9495700df0b32be.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E01
+http://maxpig.live:8080/series/adriano123/adriano123/5820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E02" tvg-logo="fd4f85f5cf1616b811fb6a9032c29f96.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E02
+http://maxpig.live:8080/series/adriano123/adriano123/5821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E03" tvg-logo="977c54661244ece11fdba444cd83b144.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E03
+http://maxpig.live:8080/series/adriano123/adriano123/5822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E04" tvg-logo="b10abce8a1bce524a3d7daa2c0ed1bbd.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E04
+http://maxpig.live:8080/series/adriano123/adriano123/5823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E05" tvg-logo="c9419b6074c3e83a6eedcbaeca9a6321.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E05
+http://maxpig.live:8080/series/adriano123/adriano123/5824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E06" tvg-logo="234e0cee2f05b5107560f9ba1f018520.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO1E06
+http://maxpig.live:8080/series/adriano123/adriano123/5825.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER- 2ª TEMP - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E01" tvg-logo="c13099457d1fe3ffbac95ca63fe4da98.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E01
+http://maxpig.live:8080/series/adriano123/adriano123/5826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E02" tvg-logo="5d23fa55d849b952609e80bcfba2a555.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E02
+http://maxpig.live:8080/series/adriano123/adriano123/5827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E03" tvg-logo="ab9292f8e94f7928ab7bdcde5efab3de.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E03
+http://maxpig.live:8080/series/adriano123/adriano123/5828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E04" tvg-logo="faaefea81da5253795304a232a84428a.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E04
+http://maxpig.live:8080/series/adriano123/adriano123/5829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E05" tvg-logo="b12048f3324cc795d559f54f258e7399.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E05
+http://maxpig.live:8080/series/adriano123/adriano123/5830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E06" tvg-logo="80e8a12b86d9c59e98ea5d0e05e3e46f.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO2E06
+http://maxpig.live:8080/series/adriano123/adriano123/5831.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER- 3ª TEMP - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E01" tvg-logo="04c4f18c9ff5cbc99e446e8c57007a02.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E01
+http://maxpig.live:8080/series/adriano123/adriano123/5832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E02" tvg-logo="79e840765567fa55fb26c0ced4abdbb0.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E02
+http://maxpig.live:8080/series/adriano123/adriano123/5833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E03" tvg-logo="7978461fad7f9c02f2aff204b1b31549.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E03
+http://maxpig.live:8080/series/adriano123/adriano123/5834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E04" tvg-logo="02ed9ef170307142f628d327d269571b.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E04
+http://maxpig.live:8080/series/adriano123/adriano123/5835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E05" tvg-logo="653c41fc76be6bd403360a05a1e22fee.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E05
+http://maxpig.live:8080/series/adriano123/adriano123/5836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E06" tvg-logo="c95829f9211353e0ba173e2eaba8ade7.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FRONTIER[/COLOR] TO3E06
+http://maxpig.live:8080/series/adriano123/adriano123/5837.mkv
