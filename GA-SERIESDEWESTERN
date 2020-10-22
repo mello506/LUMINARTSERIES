@@ -1,1 +1,20 @@
-KKKKKKKKKKKKKKKKKKKKKKKKK
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] GODLESS - DUB [/COLOR]
+LINKDOFILME
+
+
+#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP01.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]T0101 
+https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP02.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]T0102 
+https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP03.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]T0103 
+https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP04.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]T0104 
+https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP05.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]T0105 
+https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP06.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]T0106 
+https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://redecanais.bz/player3/RedeCanaisVTTS/vtts/RCServer12/GODLST01EP07.jpg?1" group-title="Godless (Dublado)",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GODLESS[/COLOR]T0107 
+https://proxy.ec.cx/video.php?url=RCServer12/ondemand/GODLST01EP07.mp4
