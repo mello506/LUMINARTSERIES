@@ -1,183 +1,182 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIE",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS 1ª TEMP - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 1ª TEMP [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E01" tvg-logo="/aaLnSLYnXmdeww4k7JB0opg0DbOWJsYZ.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E02" tvg-logo="/IY6zRORZcbHDR18hq4tRDAFCsvKRLDQ7.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E03" tvg-logo="/dpq2g2fKQQPJSzsIYu2sE6cgQGFrEtA5.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E04" tvg-logo="/HYxANHUhUAGmedUDL1Nfupr7pM0tXm0R.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E05" tvg-logo="/R4YIsP2T80ipQVtqfSCaZnDpfHgUBfkE.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E06" tvg-logo="/BhjDy9mdTq74w6yg8GOBOsAUiGBjiIjy.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E07" tvg-logo="/6W9HdZfcJRsAdvCyG1gPoMBHSaD5d7G9.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E08" tvg-logo="/r9YYqPZjuShccrix4g1MqFLHD8PobOzN.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E09" tvg-logo="/H9Zc0aAUmvHpQpBP7zbs2xYUWyO0WRw6.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T01  E09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80219.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIE",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS 2ª TEMP - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E01" tvg-logo="/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E01
+http://maxpig.live:8080/series/adriano123/adriano123/5493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E02" tvg-logo="/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E02
+http://maxpig.live:8080/series/adriano123/adriano123/5494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E03" tvg-logo="/8aI8TkJNjaDWsprmQ9nY73mZ9iP.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E03
+http://maxpig.live:8080/series/adriano123/adriano123/5495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E04" tvg-logo="/lmGxHLz8EExTSrN4e44g6wCnvyE.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E04
+http://maxpig.live:8080/series/adriano123/adriano123/5496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E05" tvg-logo="/zD7jw2MA9DWoGNkERG3zxA59pK.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E05
+http://maxpig.live:8080/series/adriano123/adriano123/5497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E06" tvg-logo="/kbcaeoP4vz6ggqFHKGPAtTBWCgr.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E06
+http://maxpig.live:8080/series/adriano123/adriano123/5498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E07" tvg-logo="/tJFeOQIcK7BCBbMmGTqO9FF9noi.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E07
+http://maxpig.live:8080/series/adriano123/adriano123/5499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E08" tvg-logo="/z8sDwBSk48Al52CdA9u4vnPvWJQ.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E08
+http://maxpig.live:8080/series/adriano123/adriano123/5500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E09" tvg-logo="/oyNW4u6DhkaF9m44RXo3Lwwc0WC.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E09
+http://maxpig.live:8080/series/adriano123/adriano123/5501.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 2ª TEMP [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E01" tvg-logo="/QRISQVbJ0GSDQON9r1N8T7N94qLkR1MD.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E02" tvg-logo="/QVtjoYZ8IRA7MfAr6gLq5HbvkkJtrULL.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E03" tvg-logo="/NVFkjR9NSNYpdSnxFeGOVsmBtelXrnoW.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E04" tvg-logo="/jhd6Jyw9IowMNGp3GTAyaTu0npzfS8WI.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E05" tvg-logo="/39mpdm9ZALgKZpBSgkpOW9eV5EY9QizG.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E06" tvg-logo="/2iSnW691Yrd70t946GTPMCazUAR74RrU.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E07" tvg-logo="/sHwcDPI0a1D6lzTWbnc5HtrmRUsyKHXA.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E08" tvg-logo="/oiuprZPs3KOQHX68zqoG7akq8DY0D2BQ.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E09" tvg-logo="/rubXQW1bqtBvYtEkxPvCCGTorZAm5MA6.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E10" tvg-logo="/F1NMkuRXWvZeSim4ZePc4TbZNvi8TClf.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T02  E10
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E01" tvg-logo="/zOtq6mPbgmeuLjAAgt2p3DF7zqA.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E01
+http://maxpig.live:8080/series/adriano123/adriano123/5502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E02" tvg-logo="/fNTvPUeldtfm8THkrC8hOZjibs2.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E02
+http://maxpig.live:8080/series/adriano123/adriano123/5503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E03" tvg-logo="/a7v9k61yKmqRnRvr20cw4lzckJq.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E03
+http://maxpig.live:8080/series/adriano123/adriano123/5504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E04" tvg-logo="/xJQi4HFtOWHzQ0a2lb6qMTQZOOB.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E04
+http://maxpig.live:8080/series/adriano123/adriano123/5505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E05" tvg-logo="/uMctGpmxDEfFcLDv37y63IxURHC.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E05
+http://maxpig.live:8080/series/adriano123/adriano123/5506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E06" tvg-logo="/vRfmwQkXw8qyuXZ7DsfXKEEITFz.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E06
+http://maxpig.live:8080/series/adriano123/adriano123/5507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E07" tvg-logo="/5cifsP8FNSVolSgVFx88ctHfRpp.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E07
+http://maxpig.live:8080/series/adriano123/adriano123/5508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E08" tvg-logo="/vkGBj6OvILV38zMckfKrE40mlwq.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E08
+http://maxpig.live:8080/series/adriano123/adriano123/5509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E09" tvg-logo="/zoNFrK1ARgFtuT15v9VGbqSjt3m.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E09
+http://maxpig.live:8080/series/adriano123/adriano123/5510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E10" tvg-logo="/dBfQlXePKuoSwy6eCUOY8t2irOb.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E10
+http://maxpig.live:8080/series/adriano123/adriano123/5511.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIE",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS 3ª TEMP - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 3ª TEMP [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E01" tvg-logo="/rPlzAtogjUace2y2zXHdqBkZZNYesFBK.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E02" tvg-logo="/nA6Nm3915f81fUaGc2ntWwJItG4opzN4.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E03" tvg-logo="/xGOZIGiPZNQEpzKkxA0qcFvnr938qJUl.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E04" tvg-logo="/ztPibiu76Nm2WHl9zzEvxtkotBjaV2Yg.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E05" tvg-logo="/rV3c2Y1w8jxCpF3P8dVsKMpBxCYbrTSY.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E06" tvg-logo="/AxLLYonTxL0wtFd1GCz3bUVkroGcQJgz.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E07" tvg-logo="/wBqsAKn8d1GpXfANJnORiGLACgbNJFpx.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E08" tvg-logo="/Z3TJmZgbOh8unTy3SZLJtqWCPrjOWtUT.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E09" tvg-logo="/NFpVDyWrCA8KavrFmUx8QtYBToln9Hm5.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E10" tvg-logo="/TK9zZ7P1PEV0PfJzgKQRf4GUD0BPRO9K.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T03 E10
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E01" tvg-logo="/lxkXxSHLqkqM7vSGaZLTRbVnfvw.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E01
+http://maxpig.live:8080/series/adriano123/adriano123/5512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E02" tvg-logo="/l3FI55cfzldcO3jhNX1CeSctabN.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E02
+http://maxpig.live:8080/series/adriano123/adriano123/5513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E03" tvg-logo="/26Df88Y15xJ8wJ6eIND2SLu2Mes.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E03
+http://maxpig.live:8080/series/adriano123/adriano123/5514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E04" tvg-logo="/5w5PZjjiT0fscns1td55qEuR2np.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E04
+http://maxpig.live:8080/series/adriano123/adriano123/5515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E05" tvg-logo="/PkbyH1xQZy63SycZT07IOTSF1N.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E05
+http://maxpig.live:8080/series/adriano123/adriano123/5516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E06" tvg-logo="/9n8pc6XwRlEeeMb4nrukUGzRHS9.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E06
+http://maxpig.live:8080/series/adriano123/adriano123/5517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E07" tvg-logo="/cFFY8zOjUQlACFAKyMIufup3VjE.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E07
+http://maxpig.live:8080/series/adriano123/adriano123/5518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E08" tvg-logo="/5Wmmag8yK7kPyLunTnx9DuQAJTs.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E08
+http://maxpig.live:8080/series/adriano123/adriano123/5519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E09" tvg-logo="/kJerWFq6iuToWn6NJf2hwkXzFUO.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E09
+http://maxpig.live:8080/series/adriano123/adriano123/5520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E10" tvg-logo="/5KpRWZYaZ8Tjxn40TQzPj4Tnk9t.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E10
+http://maxpig.live:8080/series/adriano123/adriano123/5521.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIE",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS 4ª TEMP - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 4ª TEMP [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E01" tvg-logo="/uWH9qQRh4SwM9HYKEALpAKrv9uduRXya.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E02" tvg-logo="/ABERzaJfMv3A2ONt6Pg1GMyqEgt2S1FV.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E03" tvg-logo="/C8zle6Q9JiKlIx9OprLPfPuYVvt3WTUR.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E04" tvg-logo="/4PmGGQONWa9EgNnIwwX6NK5SYoHRejwY.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E05" tvg-logo="/7soPucX7NCxZYlyHS9XE6O0RZ6NEcwqC.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E06" tvg-logo="/ZH4TYbThvBQQ8YJtxkl13MpmVFyy1N8k.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E07" tvg-logo="/k8NtVV0Xu7KMwJBO95ksvOo0tgyjSFO9.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E08" tvg-logo="/hf9uvh1P6tIyJR1SmTCX1Qd5gpYhMLrA.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E09" tvg-logo="/0Yig7BtpBJ75FqCvi7KoaUe6qNpsG6EJ.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E10" tvg-logo="/nOrbevpkLBzu9EqZkdLuilh9uYQRmEYE.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E10
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E11" tvg-logo="/xNEzE4N6SaZdM8F3j74QqKn1UvnBuKxn.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E11
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E12" tvg-logo="/Mmsna21jecWdapOCQrE26aetulT22cY0.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E12
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E13" tvg-logo="/L3lRGCmCMFygFanQdwsXwJzMUjqdDWEI.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E13
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E14" tvg-logo="/Ja0MiiPOUX0cmb41vaRcH4A4onMrj2cp.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E14
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E15" tvg-logo="/we7qChV9wjPNnFrR3JrNi06XsS7xE2Ic.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E15
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E16" tvg-logo="/GMbA3SysPkobti2aNwv65R7jKTBZnonj.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E16
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E17" tvg-logo="/VLnN9rT7msxvqQpvHHnFRUVowg5cA9ap.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E17
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E18" tvg-logo="/0dqnPbDD6kZIhkyVCqh06VvzUiexVcC4.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E18
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E19" tvg-logo="/scZCA1isK4LGPENW0e7d0fZaXW0GT8RU.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E19
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E20" tvg-logo="/ogVevavx9l2RD9js8DresdWA8tOwRBwu.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T04 E20
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E01" tvg-logo="/hrwR0Ttjrr4iuiMWBVr9dTN2Aa7.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E01
+http://maxpig.live:8080/series/adriano123/adriano123/5522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E02" tvg-logo="/fLmE6zAIwmL1tmzsPylRrxNvlac.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E02
+http://maxpig.live:8080/series/adriano123/adriano123/5523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E03" tvg-logo="/whXSA0wNJ5huU8GwA1gVWoqOEpb.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E03
+http://maxpig.live:8080/series/adriano123/adriano123/5524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E04" tvg-logo="/aj2TVz5b4U3uPicwQoRa3Z2ebxh.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E04
+http://maxpig.live:8080/series/adriano123/adriano123/5525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E05" tvg-logo="/uHJAV3pXqNw3gNl73Tx5aZi3HHe.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E05
+http://maxpig.live:8080/series/adriano123/adriano123/5526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E06" tvg-logo="/zGAYf5xNRQSiS8cirRYnyonvlnH.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E06
+http://maxpig.live:8080/series/adriano123/adriano123/5527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E07" tvg-logo="/iNzGDvCcceZJ6AG5B8LA0LdbBen.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E07
+http://maxpig.live:8080/series/adriano123/adriano123/5528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E08" tvg-logo="/tnwyCySvtyEtKX2OqUMaO0yTPmD.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E08
+http://maxpig.live:8080/series/adriano123/adriano123/5529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E09" tvg-logo="/m4gzIOird8hnGMlPd9xDhz8GBbO.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E09
+http://maxpig.live:8080/series/adriano123/adriano123/5530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E10" tvg-logo="/cH3jtDDIZB3qK71KPNnpOJTPyu5.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E10
+http://maxpig.live:8080/series/adriano123/adriano123/5531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E11" tvg-logo="/23bDUORmHdkWVdhFbqilDhuIxE0.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E11
+http://maxpig.live:8080/series/adriano123/adriano123/5532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E12" tvg-logo="/mQLcB8sbGJz9nd8th1kY5IyH4P4.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E12
+http://maxpig.live:8080/series/adriano123/adriano123/5533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E13" tvg-logo="/9ZsvVNJeDWy97O0HZkfwSqgR3Tm.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E13
+http://maxpig.live:8080/series/adriano123/adriano123/5534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E14" tvg-logo="/kRYaOvnxbBeILFRCVMIDmZWlj4y.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E14
+http://maxpig.live:8080/series/adriano123/adriano123/5535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E15" tvg-logo="/bo8f6YozU0JIWhuAxdvAIfWPVqS.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E15
+http://maxpig.live:8080/series/adriano123/adriano123/5536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E16" tvg-logo="/lXjAKqM6FzcE3jKzlv0hjnAIjnt.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E16
+http://maxpig.live:8080/series/adriano123/adriano123/5537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E17" tvg-logo="/nG5WMT0v3h6sXDUyZwzs7BcWi3z.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E17
+http://maxpig.live:8080/series/adriano123/adriano123/5538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E18" tvg-logo="/5HLpnL66LOOVOu33bQz7iEwTvvH.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E18
+http://maxpig.live:8080/series/adriano123/adriano123/5539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E19" tvg-logo="/lAPqhzVTyik6zJiRbkPTUlrCEMt.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E19
+http://maxpig.live:8080/series/adriano123/adriano123/5540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E20" tvg-logo="/p22hFeEGVqZu9hmMwMIHXxN30J4.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E20
+http://maxpig.live:8080/series/adriano123/adriano123/5541.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIE",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS 5ª TEMP - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 5ª TEMP [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E01" tvg-logo="/66gzeEiRjYTA8ipE8XfIrSiehNemqv2R.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E02" tvg-logo="/7v5UOWBqaWv3VBOX41UPSM6cYlVZplKC.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E03" tvg-logo="/5mn2U7oKliXgHafZYzMVkLWecawl2VJD.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E04" tvg-logo="/qptWTaMxNwn29xFzbCnRkwhxqH3GQMeX.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E05" tvg-logo="/9Oo1vAi8iyhxvTS0DVcJQB1ZM6U8fi3h.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E06" tvg-logo="/1S56eYeeIVOfMw4Spwf9ozhDXaWDHvk1.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E07" tvg-logo="/TRDeRJvIRRD7BUu54ABNertx3VTEwfQX.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E08" tvg-logo="/YZmSXnx65SiIYUVzW1B9bzXRSSe89w2O.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E09" tvg-logo="/4DZMpHbzGR00eDRPuCK6cmJ4ewDWb8KV.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E10" tvg-logo="/MS7qNSXTpV7iqfta45qBvBLIokpZ2u1a.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E10
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E11" tvg-logo="/ohfr9rdEd45BtE2UNX5efmBMgCb81zBc.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E11
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E12" tvg-logo="/DMzOBTfk6zo21F0H9QsdMVRGIGBa9HuN.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E12
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E13" tvg-logo="/ZfHbNyvNHJ9XeuC1yvxkEHXM29uUcmPU.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E13
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E14" tvg-logo="/sBD4GUTbFgfh4sTFjFPHbtG9MGpTYGQ4.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E14
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E15" tvg-logo="/Lm3lhxy1nmg5FkdWHXBJJVeKhW3w3QzR.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E15
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E16" tvg-logo="/oQuUZWWgyczwMNvX3gqKwjRBF28GgGjG.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E16
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E17" tvg-logo="/pVck9lCeUB3jOsm7YNtnqlQTI6Y0LEWY.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E17
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E18" tvg-logo="/gRKB1NvLIfnMjsjiDMnlXzki2b6mmKjs.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E18
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E19" tvg-logo="/c6SadhhK5eZ9aywAJvcHKNgzFqRKMZlF.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E19
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E20" tvg-logo="/hzYyHVHHugDc8E5gzNuRrGOUVMnaVaCz.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T05 E20
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/80268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E01" tvg-logo="/snj1cxaWLGq0n25aCDXL544zr2A.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E01
+http://maxpig.live:8080/series/adriano123/adriano123/5542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E02" tvg-logo="/zjPcFk4cCPX47nESrxeuc974Nv6.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E02
+http://maxpig.live:8080/series/adriano123/adriano123/5543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E03" tvg-logo="/kSdzvlvjHIhAJt1yGu9D2CUYHKu.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E03
+http://maxpig.live:8080/series/adriano123/adriano123/5544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E04" tvg-logo="/mwhArS0AWSYKnES2Ne22vWgxl7Z.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E04
+http://maxpig.live:8080/series/adriano123/adriano123/5545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E05" tvg-logo="/qW4zxYXVAIoodVC8G4ix7sLsP8H.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E05
+http://maxpig.live:8080/series/adriano123/adriano123/5546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E06" tvg-logo="/cfmte4CzQuUyUka7gSLfNwDYLXD.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E06
+http://maxpig.live:8080/series/adriano123/adriano123/5547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E07" tvg-logo="/51vXi4dEwHZBGvSkBUcDa8gZoYZ.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E07
+http://maxpig.live:8080/series/adriano123/adriano123/5548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E08" tvg-logo="/ax7Qx3iaftydXA21h3JpdtL3DYG.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E08
+http://maxpig.live:8080/series/adriano123/adriano123/5549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E09" tvg-logo="/aGDpMbiLDRSKw67o5RKTKpFUEMK.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E09
+http://maxpig.live:8080/series/adriano123/adriano123/5550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E10" tvg-logo="/glnCGZWOccC4fVCihgggXo93bA2.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E10
+http://maxpig.live:8080/series/adriano123/adriano123/5551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E11" tvg-logo="/tHBGZz1uxTbhP0KWZ8fUaUYcsZe.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E11
+http://maxpig.live:8080/series/adriano123/adriano123/5552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E12" tvg-logo="/nLEnknbVHgv8OPXNpRwA3oHWqL8.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E12
+http://maxpig.live:8080/series/adriano123/adriano123/5553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E13" tvg-logo="/cU3DwXsfbTT0qiKKmspSDmi472V.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E13
+http://maxpig.live:8080/series/adriano123/adriano123/5554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E14" tvg-logo="/xRSDThRVa1Xj3UpoIOR9xrqquZr.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E14
+http://maxpig.live:8080/series/adriano123/adriano123/5555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E15" tvg-logo="/s56Ni5Ywi05t3gf4V9IN3QV16Zq.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E15
+http://maxpig.live:8080/series/adriano123/adriano123/5556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E16" tvg-logo="/sZdh4eH8hoi2uU7Vt6zBRkNbqj1.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E16
+http://maxpig.live:8080/series/adriano123/adriano123/5557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E17" tvg-logo="/qHPuOA7CpaKJpIsPWEds2KSxqfH.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E17
+http://maxpig.live:8080/series/adriano123/adriano123/5558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E18" tvg-logo="/uhtZmr22eSyDj9w0jaogBEubiX4.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E18
+http://maxpig.live:8080/series/adriano123/adriano123/5559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E19" tvg-logo="/qoReo3XyPF4xrWMA5zq84CkKI8O.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E19
+http://maxpig.live:8080/series/adriano123/adriano123/5560.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIE",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS 6ª TEMP - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 6ª TEMP [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E01" tvg-logo="/98a7dca8a57063bc6a2c3193f003e083.jpg" group-title="SÉRIE: VIKINGS",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] T06 E01
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/83542.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E02" tvg-logo="/5b499c0709a689afd7297a66b0fd45cb.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E02
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/83543.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E03" tvg-logo="/abdc44f788f18532f14f8628a5259bb8.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E03
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/83544.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E04" tvg-logo="/47e75823fcdef1ce327b236b48e0673b.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E04
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/84270.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E05" tvg-logo="/e3987400e5a18eea276056f4468bf783.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E05
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/84414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E06" tvg-logo="/80f73874b8a70c8c73db196ac0bf2d3a.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E06
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/84444.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E07" tvg-logo="/efc849af2e51351943f40d168c977390.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E07
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/85914.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E08" tvg-logo="/5117101c5adb055a624101b4eb612b8c.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E08
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/85915.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E09" tvg-logo="/0dc108d7f28796aa217c4cb04a7d970f.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E09
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/85916.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vikings S06 E10" tvg-logo="/d65da5bd65d40a72114472721310247b.jpg" group-title="SÉRIE: VIKINGS",Vikings S06 E10
-http://assistaiptvplay.com:80/series/samuel1234/samuel1234/85917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E01" tvg-logo="/cnBm4JniKFhSg7BJtVfGevLQvuq.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E01
+http://maxpig.live:8080/series/adriano123/adriano123/5561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E02" tvg-logo="/tg0oDdLknnjiBBIq1BH3HdQCcwV.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E02
+http://maxpig.live:8080/series/adriano123/adriano123/5562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E03" tvg-logo="/azkjib3I3XuOeVfjF36dbdUUZJt.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E03
+http://maxpig.live:8080/series/adriano123/adriano123/5563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E04" tvg-logo="/eFj6z3QOKVwdc9yJnEBCFBfqlSM.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E04
+http://maxpig.live:8080/series/adriano123/adriano123/5564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E05" tvg-logo="/zWPYQVeyyMTWazK4WbjigVuaZ9N.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E05
+http://maxpig.live:8080/series/adriano123/adriano123/5565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E06" tvg-logo="/8l5jE8Ue1g9HZn417vbcHrvgaD5.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E06
+http://maxpig.live:8080/series/adriano123/adriano123/5566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E07" tvg-logo="/mXzDiFWFiII28bCwRhD08OS1OuP.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E07
+http://maxpig.live:8080/series/adriano123/adriano123/5567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E08" tvg-logo="/qQz3GyZvuWHIDVmwlBP2k4eoQQ2.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E08
+http://maxpig.live:8080/series/adriano123/adriano123/5568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E09" tvg-logo="/qs6mkIBBNpiGIBgWBt5CRHrieF.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E09
+http://maxpig.live:8080/series/adriano123/adriano123/5569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E10" tvg-logo="/7jQkjDessT3JB36TMDv6uMkb25q.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E10
+http://maxpig.live:8080/series/adriano123/adriano123/5570.mp4
