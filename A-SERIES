@@ -46,11 +46,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/C1-SERIESDECRIMEEDRAMA</externallink>
-<thumbnail>https://i.ibb.co/6mmtXhG/crimedrama-pasta.png</thumbnail>
+<name>[COLOR lime][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/E1-SERIESDEEPICOS</externallink>
+<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SÉRIES DE CRIME E DRAMA</info>
+<info>SÉRIES DE ÉPICOS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES DE COMÉDIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/C1-SERIESDECRIMEEDRAMA</externallink>
+<thumbnail>https://i.ibb.co/4pyT65J/comedia-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIES DE COMÉDIA</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
