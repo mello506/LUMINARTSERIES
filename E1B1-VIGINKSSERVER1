@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 1ª TEMP [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 1ª TEMP [/COLOR]
 LINKDOFILME
 
 
@@ -23,7 +23,7 @@ http://maxpig.live:8080/series/adriano123/adriano123/5500.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E09" tvg-logo="/oyNW4u6DhkaF9m44RXo3Lwwc0WC.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO1E09
 http://maxpig.live:8080/series/adriano123/adriano123/5501.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 2ª TEMP [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 2ª TEMP [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E01" tvg-logo="/zOtq6mPbgmeuLjAAgt2p3DF7zqA.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E01
@@ -47,7 +47,7 @@ http://maxpig.live:8080/series/adriano123/adriano123/5510.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E10" tvg-logo="/dBfQlXePKuoSwy6eCUOY8t2irOb.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO2E10
 http://maxpig.live:8080/series/adriano123/adriano123/5511.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 3ª TEMP [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 3ª TEMP [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E01" tvg-logo="/lxkXxSHLqkqM7vSGaZLTRbVnfvw.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E01
@@ -71,7 +71,7 @@ http://maxpig.live:8080/series/adriano123/adriano123/5520.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E10" tvg-logo="/5KpRWZYaZ8Tjxn40TQzPj4Tnk9t.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO3E10
 http://maxpig.live:8080/series/adriano123/adriano123/5521.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 4ª TEMP [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 4ª TEMP [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E01" tvg-logo="/hrwR0Ttjrr4iuiMWBVr9dTN2Aa7.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E01
@@ -115,7 +115,7 @@ http://maxpig.live:8080/series/adriano123/adriano123/5540.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E20" tvg-logo="/p22hFeEGVqZu9hmMwMIHXxN30J4.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO4E20
 http://maxpig.live:8080/series/adriano123/adriano123/5541.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 5ª TEMP [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 5ª TEMP [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E01" tvg-logo="/snj1cxaWLGq0n25aCDXL544zr2A.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E01
@@ -157,7 +157,7 @@ http://maxpig.live:8080/series/adriano123/adriano123/5559.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E19" tvg-logo="/qoReo3XyPF4xrWMA5zq84CkKI8O.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO5E19
 http://maxpig.live:8080/series/adriano123/adriano123/5560.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 6ª TEMP [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg" group-title="SERIES",[B]SERVER1[/B][COLOR yellow] ->[/COLOR][COLOR blue] VIKINGS - 6ª TEMP [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E01" tvg-logo="/cnBm4JniKFhSg7BJtVfGevLQvuq.jpg" group-title="Ação & Aventura",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR] TO6E01
