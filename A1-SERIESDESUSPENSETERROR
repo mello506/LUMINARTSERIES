@@ -1,70 +1,343 @@
-<channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SUPERNATURAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1A-SUPERNATURAL</externallink>
-<thumbnail>https://i.ibb.co/t8spnqg/supernatural-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SEÇÃO SUPERNATURAL</info>
-<genre>TERROR</genre>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTM3U
 
-<channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] TERRORES URBANOS [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1B-TERRORESURBANOS</externallink>
-<thumbnail>https://i.ibb.co/xgdDfbM/terroresurbanos-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SEÇÃO TERRORES URBANOS</info>
-<genre>TERROR</genre>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 1ª TEMP [/COLOR]
+LINKDOFILME
 
-<channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLD CASE [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1C-COLDCASE</externallink>
-<thumbnail>https://i.ibb.co/hChF1Sf/codcase-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SEÇÃO COLD CASE</info>
-<genre>SUSPENSE</genre>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T01E01
+http://blackuhd.co:80/series/israel/10203040/79791.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T01E02
+http://blackuhd.co:80/series/israel/10203040/79792.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T01E03
+http://blackuhd.co:80/series/israel/10203040/79793.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T01E04
+http://blackuhd.co:80/series/israel/10203040/79794.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T01E05
+http://blackuhd.co:80/series/israel/10203040/79795.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T01E06
+http://blackuhd.co:80/series/israel/10203040/79796.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T01E07
+http://blackuhd.co:80/series/israel/10203040/79797.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T01E08
+http://blackuhd.co:80/series/israel/10203040/79798.mp4
 
-<channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA MANSÃO BLY[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1D-AMALDICAODEMANSAOBLYSERVER1</externallink>
-<thumbnail>https://</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SEÇÃO A MALDIÇÃO DA MANSÃO BLY</info>
-<genre>SUSPENSE</genre>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 2ª TEMP [/COLOR]
+LINKDOFILME
 
-<channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE WALKING DEAD[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1E-THEWALKINGDEADSERVER1</externallink>
-<thumbnail>https://</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SEÇÃO THE WALKING DEAD</info>
-<genre>TERROR</genre>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E01
+http://blackuhd.co:80/series/israel/10203040/79799.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E02
+http://blackuhd.co:80/series/israel/10203040/79800.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E03
+http://blackuhd.co:80/series/israel/10203040/79801.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E04
+http://blackuhd.co:80/series/israel/10203040/79802.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E05
+http://blackuhd.co:80/series/israel/10203040/79803.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E06
+http://blackuhd.co:80/series/israel/10203040/79804.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E07
+http://blackuhd.co:80/series/israel/10203040/79805.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E08
+http://blackuhd.co:80/series/israel/10203040/79806.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E09
+http://blackuhd.co:80/series/israel/10203040/79807.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E10
+http://blackuhd.co:80/series/israel/10203040/79808.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E11
+http://blackuhd.co:80/series/israel/10203040/79809.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E12
+http://blackuhd.co:80/series/israel/10203040/79810.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T02E13
+http://blackuhd.co:80/series/israel/10203040/79811.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 3ª TEMP [/COLOR]
+LINKDOFILME
 
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E01
+http://blackuhd.co:80/series/israel/10203040/79812.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E02
+http://blackuhd.co:80/series/israel/10203040/79813.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E03
+http://blackuhd.co:80/series/israel/10203040/79814.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E04
+http://blackuhd.co:80/series/israel/10203040/79815.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E05
+http://blackuhd.co:80/series/israel/10203040/79816.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E06
+http://blackuhd.co:80/series/israel/10203040/79817.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E07
+http://blackuhd.co:80/series/israel/10203040/79818.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E08
+http://blackuhd.co:80/series/israel/10203040/79819.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E09
+http://blackuhd.co:80/series/israel/10203040/79820.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E10
+http://blackuhd.co:80/series/israel/10203040/79821.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E11
+http://blackuhd.co:80/series/israel/10203040/79822.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E12
+http://blackuhd.co:80/series/israel/10203040/79823.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E13
+http://blackuhd.co:80/series/israel/10203040/79824.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E14
+http://blackuhd.co:80/series/israel/10203040/79825.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E15
+http://blackuhd.co:80/series/israel/10203040/79826.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T03E16
+http://blackuhd.co:80/series/israel/10203040/79827.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 4ª TEMP [/COLOR]
+LINKDOFILME
 
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E01
+http://blackuhd.co:80/series/israel/10203040/79828.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E02
+http://blackuhd.co:80/series/israel/10203040/79829.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E03
+http://blackuhd.co:80/series/israel/10203040/79830.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E04
+http://blackuhd.co:80/series/israel/10203040/79831.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E05
+http://blackuhd.co:80/series/israel/10203040/79832.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E06
+http://blackuhd.co:80/series/israel/10203040/79833.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E07
+http://blackuhd.co:80/series/israel/10203040/79834.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E08
+http://blackuhd.co:80/series/israel/10203040/79835.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E09
+http://blackuhd.co:80/series/israel/10203040/79836.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E10
+http://blackuhd.co:80/series/israel/10203040/79837.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E11
+http://blackuhd.co:80/series/israel/10203040/79838.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E12
+http://blackuhd.co:80/series/israel/10203040/79839.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E13
+http://blackuhd.co:80/series/israel/10203040/79840.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E14
+http://blackuhd.co:80/series/israel/10203040/79841.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E15
+http://blackuhd.co:80/series/israel/10203040/79842.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T04E16
+http://blackuhd.co:80/series/israel/10203040/79843.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 5ª TEMP [/COLOR]
+LINKDOFILME
 
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E01
+http://blackuhd.co:80/series/israel/10203040/79844.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E02
+http://blackuhd.co:80/series/israel/10203040/79845.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E03
+http://blackuhd.co:80/series/israel/10203040/79846.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E04
+http://blackuhd.co:80/series/israel/10203040/79847.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E05
+http://blackuhd.co:80/series/israel/10203040/79848.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E06
+http://blackuhd.co:80/series/israel/10203040/79849.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E07
+http://blackuhd.co:80/series/israel/10203040/79850.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E08
+http://blackuhd.co:80/series/israel/10203040/79851.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E09
+http://blackuhd.co:80/series/israel/10203040/79852.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E10
+http://blackuhd.co:80/series/israel/10203040/79853.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E11
+http://blackuhd.co:80/series/israel/10203040/79854.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E12
+http://blackuhd.co:80/series/israel/10203040/79855.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E13
+http://blackuhd.co:80/series/israel/10203040/79856.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E14
+http://blackuhd.co:80/series/israel/10203040/79857.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E15
+http://blackuhd.co:80/series/israel/10203040/79858.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T05E16
+http://blackuhd.co:80/series/israel/10203040/79859.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 6ª TEMP [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E01
+http://blackuhd.co:80/series/israel/10203040/79860.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E02
+http://blackuhd.co:80/series/israel/10203040/79861.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E03
+http://blackuhd.co:80/series/israel/10203040/79862.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E04
+http://blackuhd.co:80/series/israel/10203040/79863.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E05
+http://blackuhd.co:80/series/israel/10203040/79864.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E06
+http://blackuhd.co:80/series/israel/10203040/79865.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E07
+http://blackuhd.co:80/series/israel/10203040/79866.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E08
+http://blackuhd.co:80/series/israel/10203040/79867.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E09
+http://blackuhd.co:80/series/israel/10203040/79868.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E10
+http://blackuhd.co:80/series/israel/10203040/79869.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E11
+http://blackuhd.co:80/series/israel/10203040/79870.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E12
+http://blackuhd.co:80/series/israel/10203040/79871.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E13
+http://blackuhd.co:80/series/israel/10203040/79872.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E14
+http://blackuhd.co:80/series/israel/10203040/79873.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E15
+http://blackuhd.co:80/series/israel/10203040/79874.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T06E16
+http://blackuhd.co:80/series/israel/10203040/79875.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 7ª TEMP [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E01
+http://blackuhd.co:80/series/israel/10203040/79876.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E02
+http://blackuhd.co:80/series/israel/10203040/79877.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E03
+http://blackuhd.co:80/series/israel/10203040/79878.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E04
+http://blackuhd.co:80/series/israel/10203040/79879.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E05
+http://blackuhd.co:80/series/israel/10203040/79880.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E06
+http://blackuhd.co:80/series/israel/10203040/79881.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E07
+http://blackuhd.co:80/series/israel/10203040/79882.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E08
+http://blackuhd.co:80/series/israel/10203040/79883.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E09
+http://blackuhd.co:80/series/israel/10203040/79884.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E10
+http://blackuhd.co:80/series/israel/10203040/79885.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E11
+http://blackuhd.co:80/series/israel/10203040/79886.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E12
+http://blackuhd.co:80/series/israel/10203040/79887.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E13
+http://blackuhd.co:80/series/israel/10203040/79888.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E14
+http://blackuhd.co:80/series/israel/10203040/79889.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E15
+http://blackuhd.co:80/series/israel/10203040/79890.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T07E16
+http://blackuhd.co:80/series/israel/10203040/79891.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 8ª TEMP [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E01
+http://blackuhd.co:80/series/israel/10203040/79939.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E02
+http://blackuhd.co:80/series/israel/10203040/79940.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E03
+http://blackuhd.co:80/series/israel/10203040/79941.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E04
+http://blackuhd.co:80/series/israel/10203040/79942.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E05
+http://blackuhd.co:80/series/israel/10203040/79943.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E06
+http://blackuhd.co:80/series/israel/10203040/79944.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E07
+http://blackuhd.co:80/series/israel/10203040/79945.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E08
+http://blackuhd.co:80/series/israel/10203040/79946.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E09
+http://blackuhd.co:80/series/israel/10203040/79947.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E10
+http://blackuhd.co:80/series/israel/10203040/79948.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E11
+http://blackuhd.co:80/series/israel/10203040/79949.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E12
+http://blackuhd.co:80/series/israel/10203040/79950.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E13
+http://blackuhd.co:80/series/israel/10203040/79951.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E14
+http://blackuhd.co:80/series/israel/10203040/79952.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E15
+http://blackuhd.co:80/series/israel/10203040/79953.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E16
+http://blackuhd.co:80/series/israel/10203040/79954.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E17
+http://blackuhd.co:80/series/israel/10203040/79955.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T08E18
+http://blackuhd.co:80/series/israel/10203040/79956.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 9ª TEMP [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E01
+http://blackuhd.co:80/series/israel/10203040/79957.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E02
+http://blackuhd.co:80/series/israel/10203040/79958.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E03
+http://blackuhd.co:80/series/israel/10203040/79959.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E04
+http://blackuhd.co:80/series/israel/10203040/79960.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E05
+http://blackuhd.co:80/series/israel/10203040/79961.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E06
+http://blackuhd.co:80/series/israel/10203040/79962.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E07
+http://blackuhd.co:80/series/israel/10203040/79963.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E08
+http://blackuhd.co:80/series/israel/10203040/79964.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E09
+http://blackuhd.co:80/series/israel/10203040/79965.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E10
+http://blackuhd.co:80/series/israel/10203040/79966.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E11
+http://blackuhd.co:80/series/israel/10203040/79967.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E12
+http://blackuhd.co:80/series/israel/10203040/79968.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E13
+http://blackuhd.co:80/series/israel/10203040/79969.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E14
+http://blackuhd.co:80/series/israel/10203040/79970.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E15
+http://blackuhd.co:80/series/israel/10203040/79971.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T09E16
+http://blackuhd.co:80/series/israel/10203040/79972.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE WALKING DEAD - 10ª TEMP [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E01
+http://blackuhd.co:80/series/israel/10203040/79973.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E02
+http://blackuhd.co:80/series/israel/10203040/86568.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E03
+http://blackuhd.co:80/series/israel/10203040/79974.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E04
+http://blackuhd.co:80/series/israel/10203040/79975.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E05
+http://blackuhd.co:80/series/israel/10203040/79976.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E06
+http://blackuhd.co:80/series/israel/10203040/79977.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E07
+http://blackuhd.co:80/series/israel/10203040/79978.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E08
+http://blackuhd.co:80/series/israel/10203040/79979.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E09
+http://blackuhd.co:80/series/israel/10203040/79980.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E10
+http://blackuhd.co:80/series/israel/10203040/79981.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E11
+http://blackuhd.co:80/series/israel/10203040/79982.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E12
+http://blackuhd.co:80/series/israel/10203040/79983.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E13
+http://blackuhd.co:80/series/israel/10203040/79984.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E14
+http://blackuhd.co:80/series/israel/10203040/79985.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E15
+http://blackuhd.co:80/series/israel/10203040/85555.mp4
+#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR] T10E16
+http://blackuhd.co:80/series/israel/10203040/85556.mp4
