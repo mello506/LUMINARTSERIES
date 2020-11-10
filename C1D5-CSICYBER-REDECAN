@@ -1,0 +1,71 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - CYBER - 1ª TEMP - 720 - DUB [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="CSICBRT01EP01.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E01 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP01.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP02.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E02 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP02.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP03.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E03 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP03.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP04.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E04 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP04.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP05.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E05 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP05.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP06.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E06 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP06.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP07.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E07 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP07.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP08.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E08 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP08.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP09.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E09 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP09.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP10.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E10 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP10.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP11.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E11 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP11.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP12.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E12 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP12.mp4
+#EXTINF:-1 tvg-logo="CSICBRT01EP13.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T1E13 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP13.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - CYBER - 2ª TEMP - 720 - DUB [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="CSICBRT02EP01.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E01 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP01.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP02.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E02 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP02.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP03.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E03 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP03.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP04.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E04 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP04.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP05.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E05 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP05.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP06.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E06 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP06.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP07.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E07 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP07.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP08.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E08 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP08.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP09.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E09 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP09.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP10.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E10 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP10.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP11.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E11 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP11.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP12.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E12 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP12.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP13.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E13 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP13.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP14.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E14 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP14.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP15.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E15 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP15.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP16.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E16 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP16.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP17.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E17 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP17.mp4
+#EXTINF:-1 tvg-logo="CSICBRT02EP18.jpg?1" group-title="C.S.I.: Cyber (Dublado)",T2E18 
+https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT02EP18.mp4
