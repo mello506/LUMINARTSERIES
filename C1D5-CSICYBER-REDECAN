@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - CYBER - 1ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - CYBER - 1ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSICBRT01EP01.jpg?1" group-title="C.S.I.: Cyber (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - CYBER[/COLOR][COLOR yellow] -> [/COLOR] T01E01 
@@ -30,7 +30,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP12.mp4
 #EXTINF:-1 tvg-logo="CSICBRT01EP13.jpg?1" group-title="C.S.I.: Cyber (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - CYBER[/COLOR][COLOR yellow] -> [/COLOR] T01E13 
 https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSICBRT01EP13.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - CYBER - 2ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - CYBER - 2ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSICBRT02EP01.jpg?1" group-title="C.S.I.: Cyber (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - CYBER[/COLOR][COLOR yellow] -> [/COLOR] T02E01 
