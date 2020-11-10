@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="SUSPENSE",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] A MALDIÇÃO DA RESIDÊNCIA HILL - 1ª TEMP - RES - DUB [/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E01
+http://kianumaka.lhmtv.gq/play/?list=7ec3f19afc3ff53a&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E02
+http://kianumaka.lhmtv.gq/play/?list=a87c972a14300256&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E03
+http://kianumaka.lhmtv.gq/play/?list=dee717a5faf8568d&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E04
+http://kianumaka.lhmtv.gq/play/?list=cedb5f8cdc6bb4f5&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E05
+http://kianumaka.lhmtv.gq/play/?list=d4f4b17cd1197bf9&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E06
+http://kianumaka.lhmtv.gq/play/?list=3565f3b06b17b0a1&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E07
+http://kianumaka.lhmtv.gq/play/?list=ca55b2b83f9b56dd&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E08
+http://kianumaka.lhmtv.gq/play/?list=34673f9c245928b8&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E09
+http://kianumaka.lhmtv.gq/play/?list=939b17f06b495321&LHMTv
+#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/series/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E10
+http://kianumaka.lhmtv.gq/play/?list=74255fb4bbf72c76&LHMTv
