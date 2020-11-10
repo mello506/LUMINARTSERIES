@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 1ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 1ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="01EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T01E01 
@@ -52,7 +52,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSIMIAT01EP23.mp4
 #EXTINF:-1 tvg-logo="01EP24.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T01E24 
 https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSIMIAT01EP24.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 2ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 2ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T02E01 
@@ -104,7 +104,7 @@ https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT02EP23.mp4
 #EXTINF:-1 tvg-logo="EP24.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T02E24 
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT02EP24.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 3ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 3ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="03EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T03E01 
@@ -156,7 +156,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSIMIAT03EP23.mp4
 #EXTINF:-1 tvg-logo="EP24.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T03E24 
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT03EP24.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 4ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 4ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="04EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T04E01 
@@ -210,7 +210,7 @@ https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT04EP24.mp4
 #EXTINF:-1 tvg-logo="04EP25.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T04E25 
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT04EP25.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 5ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 5ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="05EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T05E01 
@@ -258,7 +258,7 @@ https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT05EP23.mp4
 #EXTINF:-1 tvg-logo="05EP24.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T05E24 
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT05EP24.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 6ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 6ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="06EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T06E01 
@@ -304,7 +304,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSIMIAT06EP20.mp4
 #EXTINF:-1 tvg-logo="06EP21.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T06E21 
 https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSIMIAT06EP21.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 7ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 7ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="07EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T07E01 
@@ -354,7 +354,7 @@ https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT07EP24.mp4
 #EXTINF:-1 tvg-logo="07EP25.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T07E25 
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT07EP25.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 8ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 8ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="08EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T08E01 
@@ -406,7 +406,7 @@ https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT08EP23.mp4
 #EXTINF:-1 tvg-logo="08EP24.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T08E24 
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT08EP24.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 9ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 9ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="09EP01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T09E01 
@@ -454,7 +454,7 @@ https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT09EP21.mp4
 #EXTINF:-1 tvg-logo="09EP22.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T09E22 
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSIMIAT09EP22.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 10ª TEMP - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI-MIAMI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - MIAMI - 10ª TEMP - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="01.jpg?1" group-title="CSI: Miami (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - MIAMI[/COLOR][COLOR yellow] -> [/COLOR] T010E01
