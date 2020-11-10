@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 1ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 1ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSINYT01EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T01E01 
@@ -51,7 +51,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSINYT01EP22.mp4
 #EXTINF:-1 tvg-logo="CSINYT01EP23.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T01E23 
 https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSINYT01EP23.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 2ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 2ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSINYT02EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T02E01 
@@ -103,7 +103,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSINYT02EP23.mp4
 #EXTINF:-1 tvg-logo="CSINYT02EP24.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T02E24 
 https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSINYT02EP24.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 3ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 3ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSINYT03EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T03E01 
@@ -155,7 +155,7 @@ https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSINYT03EP23.mp4
 #EXTINF:-1 tvg-logo="CSINYT03EP24.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T03E24 
 https://proxy.ec.cx/video.php?url=RCServer11/ondemand/CSINYT03EP24.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 4ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 4ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSINYT04EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T04E01 
@@ -195,7 +195,7 @@ https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSINYT04EP20.mp4
 #EXTINF:-1 tvg-logo="CSINYT04EP21.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T04E21 
 https://proxy.ec.cx/video.php?url=RCServer09/ondemand/CSINYT04EP21.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 5ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 5ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSINYT05EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T05E01 
@@ -249,7 +249,7 @@ https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT05EP24.mp4
 #EXTINF:-1 tvg-logo="CSINYT05EP25.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T05E25 
 https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT05EP25.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 6ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 6ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSINYT06EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T06E01 
@@ -299,7 +299,7 @@ https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT06EP22.mp4
 #EXTINF:-1 tvg-logo="CSINYT06EP23.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T06E23 
 https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT06EP23.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 7ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 7ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSINYT07EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T07E01 
@@ -347,7 +347,7 @@ https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT07EP21.mp4
 #EXTINF:-1 tvg-logo="CSINYT07EP22.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T07E22 
 https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT07EP22.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 8ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 8ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="CSINYT08EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T08E01 
@@ -387,8 +387,11 @@ https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT08EP17.mp4
 #EXTINF:-1 tvg-logo="CSINYT08EP18.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T08E18 
 https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT08EP18.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 9ª TEMP - 720 - DUB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="CSI",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] C.S.I. - NOVA YORK - 9ª TEMP - 720 - DUB [/COLOR]
 LINKDOFILME
+
+
+
 
 #EXTINF:-1 tvg-logo="CSINYT09EP01.jpg?1" group-title="C.S.I.: Nova York (Dublado)",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] C.S.I. - NOVA YORK[/COLOR][COLOR yellow] -> [/COLOR] T09E01 
 https://proxy.ec.cx/video.php?url=RCServer13/ondemand/CSINYT09EP01.mp4
