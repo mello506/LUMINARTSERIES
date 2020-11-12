@@ -1,10 +1,10 @@
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] TESTE[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA MANSÃO BLY[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO NOMEDOFILME COMPLETA</info>
-<genre>GENERO</genre>
+<info>COLEÇÃO A MALDIÇÃO DA MANSÃO BLY COMPLETA</info>
+<genre>TERROR</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTM3U
@@ -12,21 +12,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="icone" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] A MALDIÇÃO DA MANSÃO BLY [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E01
-http://blackuhd.co:80/series/israel/10203040/86600.mp4
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E02
-http://blackuhd.co:80/series/israel/10203040/86601.mp4
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E03
-http://blackuhd.co:80/series/israel/10203040/86602.mp4
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E04
-http://blackuhd.co:80/series/israel/10203040/86603.mp4
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E05
-http://blackuhd.co:80/series/israel/10203040/86604.mp4
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E06
-http://blackuhd.co:80/series/israel/10203040/86605.mp4
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E07
-http://blackuhd.co:80/series/israel/10203040/86606.mp4
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E08
-http://blackuhd.co:80/series/israel/10203040/86607.mp4
-#EXTINF:-1,[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] S01E09
-http://blackuhd.co:80/series/israel/10203040/86608.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E01
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75919.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E02
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75920.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E03
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75921.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E04
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75922.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E05
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75923.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E06
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75924.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E07
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75925.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E08
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75926.mp4
+#EXTINF:-1 group-title="série • A Maldição da Mansão Bly",[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY[/COLOR] T01E09
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75927.mp4
+
