@@ -3,32 +3,23 @@
 #EXTINF:-1 tvg-id="" tvg-name="SERIE" tvg-logo="ICONE" group-title="SUSPENSE",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] A MALDIÇÃO DA RESIDÊNCIA HILL - 1ª TEMP - RES - DUB [/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E01
-http://maxpig.live:8080/series/adriano123/adriano123/13222.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E02
-http://maxpig.live:8080/series/adriano123/adriano123/13223.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E03
-http://maxpig.live:8080/series/adriano123/adriano123/13224.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E04
-http://maxpig.live:8080/series/adriano123/adriano123/13225.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E05
-http://maxpig.live:8080/series/adriano123/adriano123/13226.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E06
-http://maxpig.live:8080/series/adriano123/adriano123/13227.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E07
-http://maxpig.live:8080/series/adriano123/adriano123/13228.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E08
-http://maxpig.live:8080/series/adriano123/adriano123/13229.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E09
-http://maxpig.live:8080/series/adriano123/adriano123/13230.mp4
-
-#EXTINF:-1 tvg-logo="/amdrhill1.jpg" group-title="A Maldicao da Residencia Hill", [B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E10
-http://maxpig.live:8080/series/adriano123/adriano123/13231.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E01
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16521.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E02
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16522.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E03
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16523.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E04
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16524.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E05
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16525.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E06
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16526.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E07
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16527.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E08
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16528.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E09
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16529.mp4
+#EXTINF:-1 group-title="série • The Haunting of Hill House",[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA RESIDÊNCIA HILL[/COLOR][COLOR yellow] -> [/COLOR] T01E10
+http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16530.mp4
