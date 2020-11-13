@@ -22,16 +22,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE WALKING DEAD[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE WALKING DEAD[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>COLEÇÃO THE WALKING DEAD COMPLETA</info>
 <genre>TERROR</genre>
 
+
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=MWSF9RZiUos$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR]</link><link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=MWSF9RZiUos$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cad1c15abcf42f611205968df35d45a26088641&dn=The+Walking+Dead%3A+1%26ordf%3B+Temporada+%282010%29+720p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1 TEMP[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD - 720 - DUB[/COLOR]</link>
 
