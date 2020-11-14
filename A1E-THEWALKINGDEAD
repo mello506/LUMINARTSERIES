@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE WALKING DEAD[/B][/COLOR]</name>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE WALKING DEAD[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>COLEÇÃO THE WALKING DEAD COMPLETA</info>
@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD - DUB[/COLOR]</title>
+<title>[B]SERIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=MWSF9RZiUos$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE WALKING DEAD[/COLOR]</link>
 
