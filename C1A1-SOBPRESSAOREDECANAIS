@@ -80,4 +80,13 @@ https://coca-cola.azureedge.net/RCServer04/ondemand/SOBPRSAOT03EP13.mp4
 #EXTINF:-1 tvg-logo="04/SOBPRSAOT03EP14" group-title="Sob Pressão (Nacional)",SÉRIE[COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR] T0314 
 https://coca-cola.azureedge.net/RCServer04/ondemand/SOBPRSAOT03EP14.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="ICONE" group-title="SERIES",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] SOB PRESSÃO PLANTÃO COVID - T04 - 2019 - 720 - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="plantao covid",[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSÃO PLANTÃO COVID[/COLOR]  
+https://coca-cola.azureedge.net/RCServer04/ondemand/SOBPRSAOT04EP01.mp4
+
+#EXTINF:-1 group-title="plantao covid",[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSÃO PLANTÃO COVID[/COLOR]  
+https://coca-cola.azureedge.net/RCServer04/ondemand/SOBPRSAOT04EP02.mp4
+
 
