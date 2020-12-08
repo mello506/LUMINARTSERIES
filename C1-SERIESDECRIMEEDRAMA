@@ -86,4 +86,58 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] DESAPARECIDOS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Dr1mZLc/desaparecidos-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>DESAPARECIDOS</info>
+<genre>CRIME E DRAMA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] DESAPARECIDOS [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dr77wFcZp-I</link>
+<thumbnail>https://i.ibb.co/fpfcxRL/desaparecidos-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>CRIME E DRAMA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] DESAPARECIDOS - 1ª TEMP - 2002 a 2003 - DUB[/B][/COLOR]</title>
+
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Piloto[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Aniversariante[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ele Viu, Ela Viu[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Entre As Rachaduras[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Suspeito[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Parceiro Silencioso[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Arrebatar de Volta[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Homenzinho[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Em Extremis[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] Sol Da Meia Noite[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP11.mp4$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] Rua Maple[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP12.mp4$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ferrovia Subterrânea[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP13.mp4$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] Segure-se Comigo[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP14.mp4$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] Os Ceus Amigaveis[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP15.mp4$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] La Vai A Noiva[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP16.mp4$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] Clare De Lune[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP17.mp4$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kam Li[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP18.mp4$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Fonte[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] Vitoria Para A Humanidade[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] Nao Mas[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP21.mp4$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] Voce Esta Agora Ou Ja Foi?[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP22.mp4$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] Queda (Parte 1)[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer04/ondemand/DSPRCDST01EP23.mp4$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] Queda (Parte 2)[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/fpfcxRL/desaparecidos-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Investigar os fatos após um crime ou um assassinato, significa entrar na mente do executor. Mas quando a vítima desaparece sem deixar rastros, a investigação é muito mais desafiadora. O trabalho requer a desconstrução da pessoa que está desaparecida e a construção de seus últimos momentos conhecidos. É aí que o brilhante trabalho da equipe do FBI de 'Pessoas Desaparecidas' de NY começa. Essa força especial é liderada pelo agente Jack Malone, que usa de conhecimentos avançados de psicologia. No time de Malone estão a bela Samantha, a brilhante Vivian, o apaixonado Danny e o novato Martin. Juntos eles buscam pistas para descobrir o que ocorreu com as vítimas desaparecidas. Eles reconstroem o 'Dia Do Desaparecimento', focando em cada detalhe e em cada minuto das últimas 24 horas antes do misterioso desaparecimento.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
