@@ -56,17 +56,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA MANSÃO BLY[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1D-AMALDICAODEMANSAOBLYSERVER1</externallink>
-<thumbnail>https://</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SEÇÃO A MALDIÇÃO DA MANSÃO BLY</info>
-<genre>SUSPENSE</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE WALKING DEAD[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1E-THEWALKINGDEAD</externallink>
 <thumbnail>https://</thumbnail>
@@ -78,7 +67,82 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO2[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA MANSÃO BLY[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SEÇÃO A MALDIÇÃO DA MANSÃO BLY</info>
+<genre>SUSPENSE</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA MANSÃO BLY - 01ª TEMP - 2020 - DUB [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UDRj0ggwd3g</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>SUSPENSE</genre>   
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDIÇÃO DA MANSÃO BLY - 01ª TEMP - 2020 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da496b5208edf042eb1ac891ab27da80f729d474&dn=COMOEUBAIXO.COM.-VERSAO-5.1-.MKV.LAPUMiA.Org%20-%20The.Haunting.of.Bly.Manor.S01.720p.NF.WEB-DL.DD5.1.x264-DUAL&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Morrer não quer dizer partir. Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de "A Maldição da Residência Hill".</info>
+<genre>SUSPENSE</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA MANSÃO BLY - 01ª TEMP - 2020 - DUB[/B][/COLOR]</title>
+
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Mansao [/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Criancas[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ecos Do Passado (Parte 1)[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Perdas E Culpa[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Altar Dos Mortos[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Cantos Secretos[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ecos Do Passado (Parte 2)[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Roupas E Joias[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCServer03/ondemand/AMLDCDMNSAOBLYT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Fera Na Selva[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Morrer não quer dizer partir. Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de "A Maldição da Residência Hill".</info>
+<genre>SUSPENSE</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA MANSÃO BLY - 01ª TEMP - 2020 - DUB[/B][/COLOR]</title>
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75919.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Mansao [/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75920.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] As Criancas[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75921.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ecos Do Passado (Parte 1)[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75922.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Perdas E Culpa[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75923.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Altar Dos Mortos[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75924.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Cantos Secretos[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75925.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Ecos Do Passado (Parte 2)[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75926.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Roupas E Joias[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/75927.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Fera Na Selva[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Morrer não quer dizer partir. Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de "A Maldição da Residência Hill".</info>
+<genre>SUSPENSE</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEÇÃO A MALDIÇÃO DA RESIDÊNCIA HILL </info>
@@ -96,7 +160,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT2[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL - TEMP 01 - 2019 - DUB[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL - TEMP 01 - 2019 - DUB[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7367FC470229FE0FBFE81C5C6041B04F555846CC&dn=%7bWWW.BLUDV.TV%7d%20A%20Maldi%c3%a7%c3%a3o%20da%20Resid%c3%aancia%20Hill%20-%201%c2%aa%20Temporada%20Completa%202018%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&ws=</link>
 
