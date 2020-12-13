@@ -1,13 +1,30 @@
-<channels>
+<channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE FLASH[/B][/COLOR]</name>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] SÉRIES DE AÇÃO[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE AÇÃO DO SERVER1</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE FLASH[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/D1C-THEFLASH</externallink>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEÇÃO THE FLASH</info>
 <genre>AÇÃO</genre>
-</channel>
-</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -185,7 +202,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAM[/B][/COLOR]</name>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAM[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/D1B-BATWOMAM</externallink>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
