@@ -2,6 +2,7 @@
 <title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
@@ -9,6 +10,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <item>
 <title>[COLOR blue][B] SÉRIES DE AÇÃO EM TORRENT[/B][/COLOR]</title>
+<link>NO LINK</link>
 <thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES SÉRIES DE AÇÃO EM TORRENT</info>
@@ -19,6 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] 24 HORAS[/B][/COLOR]</title>
+<link>NO LINK</link>
 <thumbnail>https://i.ibb.co/HKjQYbJ/24hs-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIE 24 HORAS</info>
@@ -50,6 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAM[/B][/COLOR]</title>
+<link>NO LINK</link>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIE BATWOMAM</info>
@@ -90,7 +94,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</title>
+<title>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</title>
+<link>NO LINK</link>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info> SÉRIE THE BLACKLIST : REDEMPTION</info>
@@ -114,6 +119,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels></channels>
 <item>
 <title>[COLOR lime][B] THE FLASH[/B][/COLOR]</title>
+<link>NO LINK</link>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIE THE FLASH</info>
