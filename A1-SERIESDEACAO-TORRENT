@@ -1,6 +1,7 @@
 <channels></channels>
 <channel>
 <name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<link>NOLINK</link>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
@@ -9,19 +10,84 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] COLEÇÃO DE FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] SÉRIES DE AÇÃO[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AS MELHORES COLEÇÕES DE FILMES DE AÇÃO EM REDE CANAIS</info>
+<info>AS MELHORES SÉRIES DE AÇÃO EM TORRENT</info>
 <genre>AÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAN[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Jk05YFD/velofuriososi-pasta.png</thumbnail>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAN[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO BATWOMAN</info>
+<info>SÉRIE BATWOMAN </info>
 <genre>AÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAN[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
+
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAN - DATA - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOEPISODIO - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
