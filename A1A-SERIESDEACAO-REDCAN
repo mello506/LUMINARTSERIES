@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAN[/B][/COLOR]</name>
 <link>NOLINK</link>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/W0TLLzL/batwomanr-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIE BATWOMAN </info>
 <genre>AÇÃO</genre>
@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BATWOMAN[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=-TAYNTBxsDs</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/4M59NCH/batwoman-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>AÇÃO</genre>  
@@ -63,9 +63,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://chocolate-albino.azureedge.net/RCServer14/ondemand/BATWMNT01EP19.mp4$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] Um Segredo Guardado de Todo o Resto - DUB[/COLOR]</link>
 <link>https://chocolate-albino.azureedge.net/RCServer14/ondemand/BATWMNT01EP20.mp4$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Dormidongo - DUB[/COLOR]</link>
 
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/4M59NCH/batwoman-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
+<info>Kate Kane segue os passos de seu primo desaparecido, Bruce Wayne, e protege as ruas de Gotham City como Batwoman.</info>
 <genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -75,7 +75,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</name>
 <link>NOLINK</link>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/6Nf3F6g/blacklist-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SÉRIE THE BLACKLIST : REDEMPTION </info>
 <genre>AÇÃO</genre>
@@ -84,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=iJEcdCVhs7I</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/fnZSHx6/blackredmp-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>AÇÃO</genre>  
@@ -104,7 +104,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Whitehall[/COLOR]</link>
 <link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Whitehall: Conclusao[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/fnZSHx6/blackredmp-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Na série, após descobrir que Susan Halslead (Famke Janssen), líder de uma privada e secreta organização especializada em solucionar crimes dos quais o governo não quer se envolver, é sua mãe biológica, o agente Tom Keen (Ryan Eggold) junta forças com ela para as missões mais arriscadas. </info>
 <genre>AÇÃO</genre>  
