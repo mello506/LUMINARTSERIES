@@ -1,44 +1,23 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<link>NOLINK</link>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
 
-<item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] SÉRIES DE AÇÃO[/B][/COLOR]</title>
+<channels></channels>
+<channel>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] SÉRIES DE AÇÃO[/B][/COLOR]</name>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AS MELHORES SÉRIES DE AÇÃO DO REDE CANAIS ESTÃO AQUI</info>
-<genre>AÇÃO</genre> 
-</item>
+<info>AS MELHORES SÉRIES DE AÇÃO EM REDE CANAIS</info>
+<genre>AÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION - 01 TEMP - 2017 - DUB[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=iJEcdCVhs7I$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE BLACKLIST : REDEMPTION[/COLOR]</link>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Leland Bray[/COLOR]</link>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Jensen[/COLOR]</link>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Independencia, EUA[/COLOR]</link>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Operacao Davenport[/COLOR]</link>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Borealis 301[/COLOR]</link>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Refens[/COLOR]</link>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Whitehall[/COLOR]</link>
-<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Whitehall: Conclusao[/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Na série, após descobrir que Susan Halslead (Famke Janssen), líder de uma privada e secreta organização especializada em solucionar crimes dos quais o governo não quer se envolver, é sua mãe biológica, o agente Tom Keen (Ryan Eggold) junta forças com ela para as missões mais arriscadas. </info>
-<genre>AÇÃO</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -87,6 +66,47 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SINOPSE</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIE THE BLACKLIST : REDEMPTION </info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iJEcdCVhs7I</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE BLACKLIST : REDEMPTION - 01 TEMP - 2017 - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=iJEcdCVhs7I$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE BLACKLIST : REDEMPTION[/COLOR]</link>
+<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Leland Bray[/COLOR]</link>
+<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Kevin Jensen[/COLOR]</link>
+<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Independencia, EUA[/COLOR]</link>
+<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Operacao Davenport[/COLOR]</link>
+<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] Borealis 301[/COLOR]</link>
+<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Refens[/COLOR]</link>
+<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Whitehall[/COLOR]</link>
+<link>https://chocolate-albino.azureedge.net/RCServer11/ondemand/THEBLCKLSTRDPT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Whitehall: Conclusao[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na série, após descobrir que Susan Halslead (Famke Janssen), líder de uma privada e secreta organização especializada em solucionar crimes dos quais o governo não quer se envolver, é sua mãe biológica, o agente Tom Keen (Ryan Eggold) junta forças com ela para as missões mais arriscadas. </info>
 <genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
